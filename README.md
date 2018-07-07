@@ -38,4 +38,4 @@ Status: Downloaded newer image for nlepage/golang_wasm:examples
 
 `http://localhost:32768`にブラウザでアクセスします。
 
-![01](https://github.com/cipepser/traffic/blob/master/img/01.png)
+![01](https://github.com/cipepser/go-wasm-sample/blob/master/img/01.png)
